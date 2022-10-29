@@ -1,0 +1,25 @@
+Moralis installation page
+
+https://www.npmjs.com/package/react-moralis
+
+Lesson 10
+
+Tailwindcss Error corrected: error An unexpected error occurred: "Commit hash required".
+
+- Deleted Yarn.lock and renamed package-lock.json -> oldpackage-lock.json
+
+yarn add magic-sdk@9.0.0 moralis@1.11.0 next@12.2.5 react@18.2.0 react-dom@18.2.0 react-moralis@1.3.5 webuikit@0.0.133
+
+yarn add -D eslint@8.23.1 eslint-config-next@12.3.0 tailwind@3.0.24
+
+https://tailwindcss.com/docs/guides/nextjs
+
+Tailwind CSS info
+
+Added Post CSS Language support extension
+
+was using     "react-dom": "^18.2.0",
+
+hh node - get ganache chain running
+
+yarn dev - get local server running

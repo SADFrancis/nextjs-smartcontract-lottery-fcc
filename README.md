@@ -10,7 +10,7 @@ The smart contract for this raffle is deployed on the Goerli test network at the
 
 The source code for the contract can be found on Github at:
 
-https://github.com/SADFrancis/nextjs-smartcontract-lottery-fcc
+https://github.com/SADFrancis/hardhat-smartcontract-lottery-fcc
 
 ## Frontend
 
